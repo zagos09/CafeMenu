@@ -2,8 +2,8 @@ CafeMenu is a simple HTML/CSS project for displaying a coffee shop menu. The pro
 
 Features
 
-HTML-based structure: Organizes cafe items with headings, descriptions, and prices.
+-HTML-based structure: Organizes cafe items with headings, descriptions, and prices.
 
-CSS Styling: Custom styles for layout and visual design.
+-CSS Styling: Custom styles for layout and visual design.
 
-Responsive Design: Works across different screen sizes.
+-Responsive Design: Works across different screen sizes.
